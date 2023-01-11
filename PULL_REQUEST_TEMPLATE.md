@@ -1,12 +1,10 @@
 # Descrição
 
+Correções # (link para a atividade no JIRA)
+
 Inclua um resumo da alteração e qual problema foi corrigido. Inclua também motivação e contexto relevantes. Liste todas as dependências necessárias para essa alteração.
 
-Correções # (problema)
-
 ## Tipo de alteração
-
-Exclua as opções que não são relevantes.
 
 - [ ] Correção de bug (mudança ininterrupta que corrige um problema)
 - [ ] Novo recurso (mudança ininterrupta que adiciona funcionalidade)
@@ -16,15 +14,6 @@ Exclua as opções que não são relevantes.
 # Como isso foi testado?
 
 Descreva os testes que você executou para verificar suas alterações. Forneça instruções para que possamos reproduzir. Liste também todos os detalhes relevantes para sua configuração de teste
-
-- [ ] Teste A
-- [ ] Teste B
-
-**Configuração de teste**:
-* Versão do firmware:
-*Ferragens:
-* Conjunto de ferramentas:
-*SDK:
 
 # Lista de controle:
 
