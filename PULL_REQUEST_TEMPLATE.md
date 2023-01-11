@@ -1,6 +1,6 @@
 # Descrição
 
-Correções # (link para a atividade no JIRA)
+Atividade # (link para a atividade no JIRA)
 
 Inclua um resumo da alteração e qual problema foi corrigido. Inclua também motivação e contexto relevantes. Liste todas as dependências necessárias para essa alteração.
 
