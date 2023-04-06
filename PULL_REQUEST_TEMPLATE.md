@@ -1,26 +1,16 @@
 # Descrição
 
-Atividade # (link para a atividade no JIRA)
+Inclua um resumo da alteração e qual problema foi corrigido. Inclua também motivação e contexto relevantes.
 
-## Tipo de alteração
+Atividade # (ID)[link]
 
-- [ ] Novo recurso (mudança ininterrupta que adiciona funcionalidade)
-- [ ] Mudança de última hora (correção ou recurso que faria com que a funcionalidade existente não funcionasse conforme o esperado)
-- [ ] Correção de bug (mudança ininterrupta que corrige um problema)
+# Como testar?
 
-Inclua um resumo da alteração e qual problema foi corrigido. Inclua também motivação e contexto relevantes. Liste todas as dependências necessárias para essa alteração.
-
-# Como isso foi testado?
-
-Descreva os testes que você executou para verificar suas alterações. Forneça instruções para que possamos reproduzir. Liste também todos os detalhes relevantes para sua configuração de teste
+Adicione instruções, rotas de API e seus payloads e prints para facilitar a revisão do Pull Request. Informe também todos os pré-requisitos necessários para testar.
 
 # Lista de controle:
 
 - [ ] Meu código segue as diretrizes de estilo deste projeto
-- [ ] Realizei uma auto-revisão do meu próprio código
 - [ ] Eu comentei meu código, principalmente em áreas difíceis de entender
-- [ ] Fiz as alterações correspondentes na documentação
-- [ ] Minhas alterações não geram novos avisos
-- [ ] Adicionei testes que comprovam que minha correção é eficaz ou que meu recurso funciona
-- [ ] Testes de unidade novos e existentes são aprovados localmente com minhas alterações
-- [ ] Quaisquer alterações dependentes foram mescladas e publicadas em módulos downstream
+- [ ] Executei o Lint e Testes Unitários
+- [ ] Atualizei a documentação
